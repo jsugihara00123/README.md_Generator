@@ -84,6 +84,8 @@ When you download this repository, you will need to install npm in order for thi
 
 in your terminal, cd into the repo/folder you copied to your local storage and install npm ( npm i )
 
-## Screencastify Video Link:
+---
+
+## Video Link:
 
 https://share.getcloudapp.com/8Lu0obKb
